@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+*.py
+geocode_log.txt
+test.html
